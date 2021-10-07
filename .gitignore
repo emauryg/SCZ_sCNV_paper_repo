@@ -1,0 +1,4 @@
+data/annotated_calls/*
+data/metadata/*
+data/mocha_calls/*
+data/*.csv
