@@ -6,7 +6,7 @@ This github repository contains the code to generate the main figures and analys
 
 Filterd somatic CNV (sCNV) calls are Supplementary Table 1 of the manuscript. 
 
-Expression analysis `analysis_abcb11.r` script was implemented by Tushar Kamath (Github:tkamath1).
+Expression analysis `analysis_abcb11.r` script was implemented by Tushar Kamath (Github: @tkamath1).
 ____
 
 ### Directory layout
