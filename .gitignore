@@ -2,3 +2,7 @@ data/annotated_calls/*
 data/metadata/*
 data/mocha_calls/*
 data/*.csv
+cf_length_chip_cohorts.pdf
+chip_cnv_per_sample_cohort.pdf
+chip_distributions.pptx
+OR_chip_filtering.pdf
