@@ -1,4 +1,6 @@
-## Schizophrenia-associated somatic copy number variants from 12,834 cases reveal contribution to risk and recurrent NRXN1 and ABCB11 disruptions  
+## Schizophrenia-associated somatic copy number variants from 12,834 cases reveal recurrent NRXN1 and ABCB11 disruptions  
+
+[![DOI](https://zenodo.org/badge/414666267.svg)](https://zenodo.org/badge/latestdoi/414666267)
 
 This github repository contains the code to generate the main figures and analyses associated with the manuscript by Maury et al. 
 
